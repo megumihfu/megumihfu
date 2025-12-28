@@ -11,7 +11,7 @@ Software engineer who loves building things that actually matter. While my core 
 - **Mentorship & simplifying complexity**: I enjoy breaking down complex IT concepts like AI or IoT. Seeing that "oh!" moment in others is something I can't get enough of.
 - **Real-world impact**: I code for projects with a purpose & tools that solve genuine problems _~~not another boring todo app please~~_.
 - **Growth mindset**: Always learning, evolving, and open to feedback that pushes me further & makes me better.
-- **Global outlook**: Drawn to traveling, discovering new cultures _~~dishes are more important~~_ & working in international environments.
+- **Global outlook**: Drawn to traveling, discovering new cultures & working in international environments.
 
 ---
 
