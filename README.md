@@ -1,14 +1,14 @@
 # Hi, I'm Ines 🙃
 
-Software engineer who loves building things that actually matter. While my core expertise lies in backend and mobile development, my curiosity constantly drives me toward new stacks and technologies.
+Software engineer who loves building things that actually matter. While my core expertise lies in backend and mobile development, I'm currently pivoting towards cloud architecture and devOps to build more scalable and secure systems.  
 **My thing:** learning, building, and making an impact. Whether it's architecting large-scale systems or mentoring newcomers in tech, I believe we can drive change through code and commitment.
 
 ---
 
 ## What drives me
 
-- **Insatiable technical curiosity**: Backend at heart, but always ready to explore new horizons (Angular, GraphQL and Go are next on my list _~~like those books I've still not read...~~_).
-- **Mentorship & simplifying complexity**: I enjoy breaking down complex IT concepts like AI or IoT. Seeing that "oh!" moment in others is something I can't get enough of.
+- **Insatiable technical curiosity**: Backend at heart, but always ready to explore new horizons (Angular, Go, AWS Software Architect certification are next on my list _~~like those books I've still not read...~~_).
+- **Mentorship & simplifying complexity**: I enjoy breaking down complex IT concepts like AI or cybersecurity. Seeing that "oh!" moment in others is something I can't get enough of.
 - **Real-world impact**: I code for projects with a purpose & tools that solve genuine problems _~~not another boring todo app please~~_.
 - **Growth mindset**: Always learning, evolving, and open to feedback that pushes me further & makes me better.
 - **Global outlook**: Drawn to traveling, discovering new cultures & working in international environments.
@@ -30,9 +30,9 @@ Software engineer who loves building things that actually matter. While my core 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Currently exploring...
+![AWS](https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI/CD_Pipelines-008080?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ---
